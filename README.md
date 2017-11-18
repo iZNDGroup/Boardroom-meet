@@ -2,10 +2,10 @@
 [![Code Climate](https://codeclimate.com/github/aullman/opentok-meet/badges/gpa.svg)](https://codeclimate.com/github/aullman/opentok-meet)
 [![Test Coverage](https://codeclimate.com/github/aullman/opentok-meet/badges/coverage.svg)](https://codeclimate.com/github/aullman/opentok-meet)
 
-opentok-meet
+boardroom-meet
 ===============
 
-Opentok app with screen sharing using the WebRTC screen sharing and Archiving features. You can check it out running at [meet.tokbox.com](https://meet.tokbox.com).
+Opentok app with screen sharing using the WebRTC screen sharing and Archiving features. You can check it out running at [meet.boardroom.work(https://meet.boardroom.work).
 
 ## Mobile Applications
 
