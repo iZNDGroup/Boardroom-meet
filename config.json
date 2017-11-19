@@ -1,6 +1,33 @@
 {
     "port": 3000,
-    "apiKey": "45967232",
-    "apiSecret": "8eafe3ebce78ef157db2894eb8acbaa7142041da",
+    "apiKey": "46002352",
+    "apiSecret": "3bfb987060ce9dc4c550bc1303500d481234e62b",
     "chromeExtensionId": "idjdegcicoappochknpcmenkffgddgig"
+}
+
+{
+   "OpenTok":{
+      "apiKey": "45967232",
+      "apiSecret": "8eafe3ebce78ef157db2894eb8acbaa7142041da"
+   },
+   "Firebase":{
+      "dataUrl":"https://boardroom-3362c.firebaseio.com/",
+      "authSecret":"raFPVfSIR6s48MijtEiFYBCYxmTXNGULhsgZ9Qzi"
+   },
+   "Archiving":{
+      "enabled":true,
+      "archiveManager":{
+         "enabled":true
+      }
+   },
+   "Feedback":{
+      "enabled":true
+   },
+   "Screensharing":{
+      "enabled":true,
+      "chromeExtensionId": "idjdegcicoappochknpcmenkffgddgig",
+      "annotations":{
+         "enabled":true
+      }
+   }
 }
